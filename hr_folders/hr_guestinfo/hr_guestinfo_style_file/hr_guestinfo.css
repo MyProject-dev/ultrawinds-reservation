@@ -1,0 +1,25 @@
+*:focus{
+	outline: none;
+}   
+
+#hr_body_content {   } 
+	
+	#hr_body_content table { width: 90%; text-align: left;   padding: 20px 10px 20px 22px;  margin-left: 0px;   } 
+	
+
+
+		#guestform-header { background-color:#415e9b; height:50px; color: #fff; }
+			#guestform-header table { padding: 0px; margin: 0px; padding-left:33px; padding-top: 10px; padding-bottom: 10px;   }
+			#guestform-header table td{  } 
+			#guestform-header table td span1 { font-size: 25px;  } 
+			#guestform-header table td span2 { font-size: 15px; letter-spacing: 1px; } 
+			
+			 
+
+		#guestform-body {/* padding-bottom: 10px; padding-top: 10px;*/ border-left: 1px solid #ccc; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;   } 
+			#guestform-body   table { /*padding-left: 40px;*/ width: 100%; }
+			#guestform-body   table td { padding: 10px; } 
+			#guestform-body   table td input[type='text'] , #guestform-body   table td input[type='password']   { text-transform: none; width: 90%;    padding: 10px; font-size: 12px; /*font-style: italic;*/  }
+			#guestform-body   table td input[type='submit'] , #guestform-body   table td input[type='button'] { position: relative; color: #fff;    background-color: #415e9b; margin-left: -0px; border: 1px solid #ccc; color: #ffffff; padding: 10px; font-weight: bold; cursor: pointer;  }  
+		 
+		   

@@ -1,0 +1,10 @@
+font cabin , Matura MT Script... , Maiandra GD ,  
+
+
+image header color #ff7800 , 
+
+header banner color #efefef ,
+
+text color #eb6830 , #000
+
+

@@ -1,0 +1,29 @@
+ 
+
+*:focus{ outline:none; }  
+ 
+
+
+
+#hr_body_content { padding: 0px; padding-bottom: 50px; }
+#thankyou-body-table { width: 90%; /*border: 1px solid #000;*/ text-align: left; padding: 0px; margin-top: -30px;   } 
+	#thankyou-body-table-header { background-color: #415e9b; padding: 10px;  padding-left:40px; color: #fff; } 
+		#thankyou-body-table-header headertitle { font-size: 15px;  } 
+		#thankyou-body-table-header headerdesc  { font-size: 15px; } 
+		#thankyou-body-table-header headerdesc u { color: #fff;  } 
+	#thankyou-body-table-body { background-color: #fff; padding-top: 20px; padding-bottom: 20px; border-left: 1px solid #ccc; border-right: 1px solid #ccc;  } 
+		#thankyou-body-table-body ul { padding-left: 10px; }
+		#thankyou-body-table-body ul li { /*border: 1px solid #000; */width:440px;     }
+		#thankyou-body-table-body ul li table {    }
+		#thankyou-body-table-body ul li table td { /*border: 1px solid red;*/ padding: 10px;    }
+		#thankyou-body-table-body ul li table td table {   }
+		#thankyou-body-table-body ul li table td table td { /*border: 1px solid green;*/ background-color: #f1f1f1;   }
+		#thankyou-body-table-body ul li table td table td#thankyou-desc { font-size: 15px; padding: 10px 10px 0px 10px;   }
+		#thankyou-body-table-body ul li table td table td#thankyou-title { font-size: 8px; font-weight: bold; padding:0px 0px 10px 10px; font-style: normal; text-decoration: underline; }
+	#thankyou-body-table-footer { background-color: #415e9b; padding: 10px; padding-left:40px; color: #fff; } 
+		#thankyou-body-table-footer footertitle { font-size: 15px; } 
+		#thankyou-body-table-footer footerdesc  { font-size: 15px;  } 
+		#thankyou-body-table-footer footerdesc u { color: #fff; cursor: pointer;  }
+ 	
+ 
+ 
